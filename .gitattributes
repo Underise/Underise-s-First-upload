@@ -2,4 +2,5 @@
 * text=auto
 测试文本
 测试文本
+print "Hello World!"
 
